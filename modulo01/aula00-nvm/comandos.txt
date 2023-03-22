@@ -1,0 +1,9 @@
+nvm install 19 -> instala a versao 19
+nvm install --lts -> instala a versao long-term support (versao recomendada)
+nvm list
+nvm use 18 -> usa a 18 que ja esta instalado na maquina
+nvm alias default 18 -> define a versao padrao do nodejs para ser a 18
+
+criar .nvmrc - com a versao desejada e nvm use para ativar aquela versao
+
+node -v -> .nvmrc - salva a versao apropriada para aquele projeto
