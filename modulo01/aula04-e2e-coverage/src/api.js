@@ -12,7 +12,7 @@ const routes = {
     return response.end();
   },
   // curl -i -X POST --data '{"username": "Williamkoller", "password": "123"}' localhost:3000/login
-  // url -i -X POST --data '{"username": "williamkoller", "password": "12"}' localhost:3000/login
+  // curl -i -X POST --data '{"username": "williamkoller", "password": "12"}' localhost:3000/login
   '/login:post': async (request, response) => {
     const user = JSON.parse(await once(request, 'data'));
     const toLower = (text) => text.toLowerCase();
