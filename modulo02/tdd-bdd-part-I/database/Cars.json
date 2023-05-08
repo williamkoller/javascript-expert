@@ -1,0 +1,23 @@
+[
+  {
+    "id": "023e0706-2ad6-43e4-ba49-dcacd875af41",
+    "name": "F-150",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "86401352-d97d-42e6-a399-90883a112da1",
+    "name": "Corvette",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "fedfe282-2b1c-4cb7-b3c8-3857366a40f1",
+    "name": "Golf",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]

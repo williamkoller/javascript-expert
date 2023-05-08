@@ -1,0 +1,15 @@
+{
+  "name": "tdd-bdd-part-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^5.1.0"
+  }
+}
