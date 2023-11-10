@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5c14a3f8-6a63-42a6-b126-17bb62518eec",
+    "name": "Model 3",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4bd66c57-d1f3-479f-9f02-4a0435dd6226",
+    "name": "Model S",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b013731f-5a1b-4f08-920f-059e8987b879",
+    "name": "Colorado",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
