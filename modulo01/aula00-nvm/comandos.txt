@@ -1,0 +1,13 @@
+nvm install 20 -> instala a versao 20
+nvm install --lts -> instala a ultima versao long-term support (versão recomendada)
+nvm list -> lista as versoes instaladas
+
+nvm install 18.14.2 -> instala a versao 18.14.2
+
+nvm use 18.14.2 -> usa a versao 18.14.2 instalado na maquina e no terminal atual
+
+nvm alias default 18.14.2 -> define a versao 18.14.2 como padrao
+
+criar arquivo .nvmrc na raiz do projeto e colocar a versao desejada e nvm use para usar a versao do arquivo
+
+node -v > .nvmrc -> pega a versao do node e coloca no arquivo .nvmrc
